@@ -1,0 +1,15 @@
+{
+  "name": "cdnserver",
+  "version": "1.0.0",
+  "description": "Simple server to host images / use an external source",
+  "main": "ecosystem.config.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "CDN",
+    "express"
+  ],
+  "author": "DopeDealers",
+  "license": "MIT"
+}
