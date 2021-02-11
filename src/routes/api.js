@@ -2,4 +2,5 @@ const express = require('express').Router;
 
 const api = express();
 
-api.get('/test')
+api.get('/test', function(req, res) {
+})
